@@ -1,8 +1,4 @@
 # 23andMe-GraphQL
-GraphQL api wrapper 
-
-# Node example
-
 Resolves REST-ful endpoint from 23andMe with a GraphQL schema.
 
 ## Todo
@@ -11,8 +7,7 @@ Resolves REST-ful endpoint from 23andMe with a GraphQL schema.
 * Consolidate authorization + the default redirect + Graphiql into single page
 
 ## Installation
-* Clone then
-    npm install
+* Clone repo then npm install
 
 ## Running
 * Ensure config.js is setup with your client ID and secret from https://api.23andme.com.
